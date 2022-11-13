@@ -24,7 +24,7 @@ I am Md Inshal Ansari, currently working as a Software Engineer at the Mypcot In
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=inshal1998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=inshal1998&count_private=true&show_icons=true&include_all_commits=true&theme=great-gatsby)
 [![GitHub Streak](https://streak-stats.demolab.com?user=inshal1998&theme=highcontrast)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
