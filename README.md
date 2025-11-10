@@ -1,32 +1,87 @@
-### Hi there 👋
+<!-- Header section -->
+<h1 align="center">Hi there 👋, I'm Md Inshal Ansari</h1>
+<h3 align="center">🚀 Front-End Developer | React Native | TypeScript | Java | NeoSoft Technologies</h3>
 
-I am Md Inshal Ansari, currently working as a Software Engineer at the NeoSoft (https://www.neosofttech.com/). I am a Front-End JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+<p align="center">
+  <a href="https://www.linkedin.com/in/inshal-ansari/">
+    <img src="https://img.shields.io/badge/-Inshal-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:inshalansari80@gmail.com">
+    <img src="https://img.shields.io/badge/-inshalansari80@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Inshal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inshal-ansari/)](https://www.linkedin.com/in/inshal-ansari/)
-[![Gmail Badge](https://img.shields.io/badge/-inshalansari80@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inshalansari80@gmail.com)](mailto:inshalansari80@gmail.com)
+---
 
+### 👨‍💻 About Me
 
+I’m a **Software Engineer at [NeoSoft Technologies](https://www.neosofttech.com/)** with 3+ years of experience in **React Native** and **Front-End development**.  
+I love crafting **beautiful UI/UX**, writing **clean, maintainable code**, and exploring **modern JavaScript frameworks**.
 
-## ⚡ Technologies
+💡 *Currently exploring:* Native Modules (Java/Kotlin) and Advanced TypeScript.  
+🎯 *Goal:* Building performant mobile apps that feel native across platforms.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+---
 
+### ⚡ Tech Stack
 
+#### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=inshal1998&count_private=true&show_icons=true&include_all_commits=true&theme=great-gatsby)
-[![GitHub Streak](https://streak-stats.demolab.com?user=inshal1998&theme=highcontrast)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
+#### 🧩 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inshal1998&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=inshal1998&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshal1998&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=inshal1998&theme=onedark&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/inshal-ansari/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  </a>
+  <a href="mailto:inshalansari80@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  </a>
+  <a href="https://github.com/inshal1998">
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
+  </a>
+</p>
+
+---
+
+⭐️ **_“Clean code always looks like it was written by someone who cares.”_**
