@@ -23,8 +23,17 @@
 
 ### 🧠 Tech Stack
 
+
+#### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,reactnative,redux,java,graphql,apollo,html,css,git,github,gitlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,java,firebase,graphql,html,css&theme=dark" />
+</p>
+
+#### 📱 Mobile Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
 </p>
 
 ---
@@ -32,7 +41,7 @@
 ### ⚙️ Tools I Use Often
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,postman,figma&theme=dark" />
 </p>
 
 ---
