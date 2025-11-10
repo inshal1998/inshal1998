@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/3Y2yQdW.gif" width="100%" alt="banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Md%20Inshal%20Ansari%20👨‍💻&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <!-- Typing Intro -->
